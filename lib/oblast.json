@@ -1,0 +1,35 @@
+[
+    {"key":"1", "keyg":"BLG",  "value":"Благоевград",  "label":"Благоевград"},
+{"key":"2", "keyg":"BGS",  "value":"Бургас",  "label":"Бургас"},
+{"key":"3", "keyg":"VAR",  "value":"Варна",  "label":"Варна"},
+{"key":"4", "keyg":"VTR",  "value":"Велико Търново",  "label":"Велико Търново"},
+{"key":"5", "keyg":"VID",  "value":"Видин",  "label":"Видин"},
+{"key":"6", "keyg":"VRC",  "value":"Враца",  "label":"Враца"},
+{"key":"7", "keyg":"GAB",  "value":"Габрово",  "label":"Габрово"},
+{"key":"8", "keyg":"DOB",  "value":"Добрич",  "label":"Добрич"},
+{"key":"9", "keyg":"KRZ",  "value":"Кърджали",  "label":"Кърджали"},
+{"key":"10", "keyg":"KNL",  "value":"Кюстендил",  "label":"Кюстендил"},
+{"key":"11", "keyg":"LOV",  "value":"Ловеч",  "label":"Ловеч"},
+{"key":"12", "keyg":"MON",  "value":"Монтана",  "label":"Монтана"},
+{"key":"13", "keyg":"PAZ",  "value":"Пазарджик",  "label":"Пазарджик"},
+{"key":"14", "keyg":"PER",  "value":"Перник",  "label":"Перник"},
+{"key":"15", "keyg":"PVN",  "value":"Плевен",  "label":"Плевен"},
+{"key":"16", "keyg":"PDV",  "value":"Пловдив",  "label":"Пловдив"},
+{"key":"17", "keyg":"RAZ",  "value":"Разград",  "label":"Разград"},
+{"key":"18", "keyg":"RSE",  "value":"Русе",  "label":"Русе"},
+{"key":"19", "keyg":"SLS",  "value":"Силистра",  "label":"Силистра"},
+{"key":"20", "keyg":"SLV",  "value":"Сливен",  "label":"Сливен"},
+{"key":"21", "keyg":"SML",  "value":"Смолян",  "label":"Смолян"},
+{"key":"22", "keyg":"SFO",  "value":"София",  "label":"София"},
+{"key":"23", "keyg":"SOF",  "value":"София (столица)",  "label":"София (столица)"},
+{"key":"24", "keyg":"SZR",  "value":"Стара Загора",  "label":"Стара Загора"},
+{"key":"25", "keyg":"TGV",  "value":"Търговище",  "label":"Търговище"},
+{"key":"26", "keyg":"HKV",  "value":"Хасково",  "label":"Хасково"},
+{"key":"27", "keyg":"SHU",  "value":"Шумен",  "label":"Шумен"},
+{"key":"28", "keyg":"JAM",  "value":"Ямбол",  "label":"Ямбол"}
+
+
+    
+    
+   
+]

@@ -1,0 +1,30 @@
+.container{
+    margin: 50px 50px;
+    align-self: left;   
+    width: 200px;
+    height: 180px;
+    border: 1px solid #343a40;
+    border-radius: 10px;
+    color:black;
+    background-color: aqua;
+    
+}
+
+.input {
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color:beige;
+}
+.logbutton{
+   
+    margin-top: 10px;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color:palegreen;
+    
+}
+.label{
+    margin-left: 10px;
+
+}

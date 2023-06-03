@@ -1,0 +1,49 @@
+.container {
+
+    width:  100%;
+    
+}
+
+.sliderItem4 {
+    width:  180px;
+    height: 250px;
+    object-fit: cover;
+
+}
+
+
+.sliderItem img{
+    width:  180px;
+    height: 300px;
+    object-fit: contain;
+
+}
+
+.sliderTitle {
+    font-size: 50px;
+    color: black;
+   
+}
+.sliderTitleh3 {
+    font-size:x-large;
+    
+    color: white;
+    text-shadow: 2px 2px  black;
+    font-weight: bolder;
+}
+.sliderTitlep {
+    font-size:medium;
+   
+    color: white;
+    text-shadow: 2px 2px  black;
+    font-weight: bolder;
+   
+}
+.sliderTitlep2 {
+    text-shadow: 2px 2px black ;
+      
+    font-size: medium;
+    font-weight: bolder;
+    color: white;
+
+}
